@@ -1,0 +1,66 @@
+*{
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+}
+
+body{
+    background-color: #C2E9FB;
+    text-align: center;
+}
+
+#caixa{
+    background:#ffffff;
+    border: 1px red solid;
+    width: 428px;
+    height: 273.72px;
+    margin: auto;
+    margin-top: 200px;
+    position: relative;
+}
+h1{
+    border: 1px red solid;
+}
+p{
+    border: 1px red solid;
+}
+
+
+
+#caixa3{
+    /* position:absolute; */
+    width: 300px;
+    height: 60.72px;
+    margin: 48px auto;
+}
+#caixa4{
+   
+    
+    /* border: 1px blue solid; */
+    /* position: absolute; */
+    width: 125px;
+    height: 53px;
+    display: flex;
+    
+    margin:  auto;
+    
+}
+#aqui{  /*CAIXA PARA ESCREVER*/
+    /* position: absolute; */
+    background-color: #DCE2E9;
+    width: 43px;
+    height: 53px;
+    border-radius: 4px 0px 0px 4px ;
+    /* text-align:center; */
+    align-content: center;
+}
+button{
+    /* position: absolute; */
+    background: #7879F1;
+    color: white;
+    width: 82px;
+    height: 53px;
+    border-radius: 0px 4px 4px 0px ;
+    left: 43px;
+
+}
